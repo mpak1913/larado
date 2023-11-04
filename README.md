@@ -21,7 +21,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## about this project
+## About this project
 - very simple todo-list with tailwind and laravel and blade
  
 
